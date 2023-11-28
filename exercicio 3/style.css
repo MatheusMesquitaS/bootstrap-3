@@ -1,0 +1,81 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("/img/car.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.navbar.custom{
+    width: fit-content;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
+nav a:hover{
+    color: rgb(255, 0, 0) !important;
+    
+}
+
+.container .btn:hover{
+   background-color: rgb(169, 8, 8) !important;
+   border: 1px solid rgb(169, 8, 8);
+   transition: 0.5s;
+   box-shadow:  2px 2px  rgb(114, 112, 112) ;
+}
+
+#Adquira{
+    margin-top: 350px;
+}
+
+.h1{
+    margin-top: 100px;
+}
+
+.paragrafo{
+    margin-top: 30px;
+}
+
+u{
+    text-decoration: none;
+    color: red;
+    cursor: pointer;
+}
+
+u:hover{
+    color: #ae0d0d;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 20px;
+}
+
+.btn-primary {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.btn-secondary {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.btn-info {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
